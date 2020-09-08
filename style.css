@@ -1,0 +1,23 @@
+body {
+  background-color: #f6f7d4;
+  color: #065c6f;
+  font-family: "Roboto", sans-serif;
+}
+.options {
+  border: 1px solid black;
+  padding: 5px;
+}
+.correct {
+  background-color: lightgreen;
+}
+.wrong {
+  background-color: red;
+}
+
+div {
+  font-size: 1.5rem;
+  margin: 2% 3% 3% 2%;
+}
+.gameOver {
+  visibility: hidden;
+}
